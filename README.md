@@ -7,6 +7,7 @@
 
 * [Debian Tanenbaum](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/Debian_Tanenbaum.pdf) <br> 
 * [WindowsTutorial](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/WindowsTutorial.docx) <br> 
+* [MSDN](https://msdn.microsoft.com/en-us/) <br> 
 
 ### C++ Sourse code look at
 
