@@ -28,7 +28,10 @@ int main()
 			cout << buffer;
 			k = SetFilePointer(h, -2, NULL, FILE_CURRENT);
 		}
+		ReadFile(h, &buffer, 1, &z, NULL);
+		cout << buffer;
 		CloseHandle(h);
 	}
 	return 0;
 }
+Add Comment
