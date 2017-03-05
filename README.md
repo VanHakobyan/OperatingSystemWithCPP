@@ -3,7 +3,7 @@
 </p>
 
 
-### I advise you to learn from following sources  <br>
+### I advise you to learn from the following sources  <br>
 
 * [Book written by Debian Tanenbaum](https://drive.google.com/open?id=0By1MH5wlD0LhYUU1ajBwYmlvT00) <br> 
 * [Windows_for_professional (Windows Для Профессионалов)](https://drive.google.com/open?id=0By1MH5wlD0LhYUYySEU4NDc5cTA) <br> 
