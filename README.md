@@ -3,7 +3,7 @@
 </p>
 
 
-### You have learned OS in c++ from the following sources <br>
+### You have learned OS from the following sources <br>
 
 * [Debian Tanenbaum](https://drive.google.com/open?id=0By1MH5wlD0LhYUU1ajBwYmlvT00) <br> 
 * [Windows_for_professional (Windows Для Профессионалов)](https://drive.google.com/open?id=0By1MH5wlD0LhYUYySEU4NDc5cTA) <br> 
