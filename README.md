@@ -6,8 +6,15 @@
 ### You have learned OS in c++ from the following sources <br>
 
 * [Debian Tanenbaum](https://drive.google.com/open?id=0By1MH5wlD0LhYUU1ajBwYmlvT00) <br> 
-* [WindowsTutorial](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/WindowsTutorial.docx) <br> 
+* [Windows_for_professional (Windows Для Профессионалов)](https://drive.google.com/open?id=0By1MH5wlD0LhYUYySEU4NDc5cTA) <br> 
+* [Debian Tanenbaum](https://drive.google.com/open?id=0By1MH5wlD0LhYUU1ajBwYmlvT00) <br> 
+* [Д.Харт системное программирование среде windows](https://drive.google.com/open?id=0By1MH5wlD0LhRXVLSmdRUF9jOG8) <br> 
 * [MSDN](https://msdn.microsoft.com/en-us/) <br> 
+
+### OS Task
+
+* [Task in Armenian](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/Tasks.docx) <br> 
+
 
 ### C++ Sourse code look at
 
