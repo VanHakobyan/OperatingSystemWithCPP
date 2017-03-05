@@ -5,7 +5,7 @@
 
 ### I advise you to learn from following sources  <br>
 
-* [Debian Tanenbaum](https://drive.google.com/open?id=0By1MH5wlD0LhYUU1ajBwYmlvT00) <br> 
+* [Book written by Debian Tanenbaum](https://drive.google.com/open?id=0By1MH5wlD0LhYUU1ajBwYmlvT00) <br> 
 * [Windows_for_professional (Windows Для Профессионалов)](https://drive.google.com/open?id=0By1MH5wlD0LhYUYySEU4NDc5cTA) <br> 
 * [Windows Tutorial](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/WindowsTutorial.docx) <br> 
 * [Д.Харт системное программирование среде windows](https://drive.google.com/open?id=0By1MH5wlD0LhRXVLSmdRUF9jOG8) <br> 
