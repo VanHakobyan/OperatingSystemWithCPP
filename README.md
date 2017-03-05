@@ -16,7 +16,7 @@
 * [Task in Armenian](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/Tasks.docx) <br> 
 
 
-### C++ Sourse code look at
+### C++ Source code look at
 
 * [ASCII](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/Masiv10Symbol/ASCII/Source.cpp) <br>
 * [ReadWrite](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/Masiv10Symbol/ReadWrite/Source.cpp) <br>
