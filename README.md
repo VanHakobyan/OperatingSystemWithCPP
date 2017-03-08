@@ -23,3 +23,8 @@
 * [Upper case deciding](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/24_02_17/CreateFileUpper/Source.cpp) <br>
 * [Reversing](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/03_03_17/Reversing/Source.cpp) <br>
 
+
+#### About it
+
+* Visual Studio Community 2017
+* C++ 17 .NET Framework 4.6
