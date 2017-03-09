@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "filePointer", "filePointer\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "timeOfFile", "timeOfFile\timeOfFile.vcxproj", "{BDDB18F8-E488-4135-BA45-BF8594A2CFB7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "folderManipulation", "folderManipulation\folderManipulation.vcxproj", "{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{BDDB18F8-E488-4135-BA45-BF8594A2CFB7}.Release|x64.Build.0 = Release|x64
 		{BDDB18F8-E488-4135-BA45-BF8594A2CFB7}.Release|x86.ActiveCfg = Release|Win32
 		{BDDB18F8-E488-4135-BA45-BF8594A2CFB7}.Release|x86.Build.0 = Release|Win32
+		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Debug|x64.ActiveCfg = Debug|x64
+		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Debug|x64.Build.0 = Debug|x64
+		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Debug|x86.Build.0 = Debug|Win32
+		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Release|x64.ActiveCfg = Release|x64
+		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Release|x64.Build.0 = Release|x64
+		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Release|x86.ActiveCfg = Release|Win32
+		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
