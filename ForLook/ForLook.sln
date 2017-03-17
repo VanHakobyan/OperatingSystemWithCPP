@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "timeOfFile", "timeOfFile\ti
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "folderManipulation", "folderManipulation\folderManipulation.vcxproj", "{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "directory_1", "directory_1\directory_1.vcxproj", "{0450414F-EF5A-4975-8D94-7AE96B08E5AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Release|x64.Build.0 = Release|x64
 		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Release|x86.ActiveCfg = Release|Win32
 		{CC5127D7-8F78-40A6-A31F-EAF5442C1F22}.Release|x86.Build.0 = Release|Win32
+		{0450414F-EF5A-4975-8D94-7AE96B08E5AC}.Debug|x64.ActiveCfg = Debug|x64
+		{0450414F-EF5A-4975-8D94-7AE96B08E5AC}.Debug|x64.Build.0 = Debug|x64
+		{0450414F-EF5A-4975-8D94-7AE96B08E5AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{0450414F-EF5A-4975-8D94-7AE96B08E5AC}.Debug|x86.Build.0 = Debug|Win32
+		{0450414F-EF5A-4975-8D94-7AE96B08E5AC}.Release|x64.ActiveCfg = Release|x64
+		{0450414F-EF5A-4975-8D94-7AE96B08E5AC}.Release|x64.Build.0 = Release|x64
+		{0450414F-EF5A-4975-8D94-7AE96B08E5AC}.Release|x86.ActiveCfg = Release|Win32
+		{0450414F-EF5A-4975-8D94-7AE96B08E5AC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
