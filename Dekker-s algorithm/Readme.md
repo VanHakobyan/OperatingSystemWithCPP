@@ -1,3 +1,6 @@
+## Pseudocode
+
+
 <tbody><tr>
 <td colspan="2" align="left">
 <div class="mw-highlight mw-content-ltr" dir="ltr">
@@ -56,3 +59,5 @@
 </td>
 </tr>
 </tbody>
+
+For more [this](https://en.wikipedia.org/wiki/Dekker%27s_algorithm)
