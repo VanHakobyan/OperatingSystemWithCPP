@@ -1,3 +1,7 @@
+<p align="center">
+<img src="http://jakob.engbloms.se/wp-content/uploads/2008/01/dekkersbug.png">
+</p>
+
 ## Pseudocode
 
 
