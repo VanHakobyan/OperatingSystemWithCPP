@@ -39,5 +39,8 @@
     <ClCompile Include="Process6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Process7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
