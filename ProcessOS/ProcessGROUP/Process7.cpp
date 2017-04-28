@@ -9,6 +9,7 @@ int main()
 	PROCESS_INFORMATION pinfo;
 	memset(&info, 0, sizeof(info));
 	info.cb = sizeof(info);
+
 	char cmd[300] = "C:/Program Files/Windows NT/Accessories/wordpad.exe";
 	WCHAR cmdw[300];
 	for (int i = 0; i<300; i++) cmdw[i] = (WCHAR)cmd[i];
