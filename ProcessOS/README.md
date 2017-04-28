@@ -1,6 +1,6 @@
 <p align="center"><img  src="https://www.d.umn.edu/~gshute/os/images/states.png"></p></br>
 
-### C++ Source code look at 
+### C++ Source code look at :hourglass:
 
 * [Process1](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Process1.cpp)
 * [Process2](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Process2.cpp)
@@ -12,8 +12,8 @@
 * [First](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/First.cpp)
 * [Second](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Second.cpp)
 
-### About it
+### About it :bell:
 
-Visual Studio Community 2017
+Visual Studio Community 2017</br>
 C++ 17 .NET Framework 4.6
 
