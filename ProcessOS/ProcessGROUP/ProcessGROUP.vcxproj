@@ -145,6 +145,7 @@
     <ClCompile Include="Process3.cpp" />
     <ClCompile Include="Process4.cpp" />
     <ClCompile Include="Process5.cpp" />
+    <ClCompile Include="Process6.cpp" />
     <ClCompile Include="Second.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
