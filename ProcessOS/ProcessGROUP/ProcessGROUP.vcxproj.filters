@@ -27,5 +27,8 @@
     <ClCompile Include="Process2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Process3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
