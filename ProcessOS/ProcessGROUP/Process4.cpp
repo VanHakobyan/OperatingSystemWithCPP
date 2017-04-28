@@ -12,5 +12,6 @@ int main()
 	WCHAR cmdw[300];
 	for (int i = 0; i<300; i++) cmdw[i] = (WCHAR)cmd[i];
 	if (CreateProcess(NULL, cmdw, NULL, NULL, FALSE,
-		NORMAL_PRIORITY_CLASS, NULL, NULL, &info, &pinfo) == 0) cout << "error"; return 0;
+		NORMAL_PRIORITY_CLASS, NULL, NULL, &info, &pinfo) == 0) cout << "error"; 
+	return 0;
 }
