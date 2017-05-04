@@ -42,5 +42,8 @@
     <ClCompile Include="Process7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PROCESS_INFORMATION.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
