@@ -12,8 +12,10 @@
 * [First](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/First.cpp)
 * [Second](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Second.cpp)
 </br>
-  #### Threads
+<h4> Threads<h4/>
+
 * [Thread1](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread1.cpp)
+
 ### About it :bell:
 
 Visual Studio Community 2017</br>
