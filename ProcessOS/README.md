@@ -19,6 +19,10 @@
 * [Thread4](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread4.cpp)
 * [Thread5](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread5.cpp)
 
+### C++ Tutorial: Multi-Threaded Programming
+* [Wiki](https://en.wikipedia.org/wiki/Process.h)
+* [Senior Code](http://www.digitalmars.com/rtl/process.html)
+
 ### About it :bell:
 
 Visual Studio Community 2017</br>
