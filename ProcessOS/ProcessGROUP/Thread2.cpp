@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream>
 #include <windows.h>
 #include <process.h>
 
