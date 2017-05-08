@@ -153,6 +153,7 @@
     <ClCompile Include="Thread2.cpp" />
     <ClCompile Include="Thread3.cpp" />
     <ClCompile Include="Thread4.cpp" />
+    <ClCompile Include="Thread5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
