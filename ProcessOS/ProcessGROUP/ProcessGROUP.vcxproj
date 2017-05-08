@@ -150,6 +150,7 @@
     <ClCompile Include="PROCESS_INFORMATION.cpp" />
     <ClCompile Include="Second.cpp" />
     <ClCompile Include="Thread1.cpp" />
+    <ClCompile Include="Thread2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

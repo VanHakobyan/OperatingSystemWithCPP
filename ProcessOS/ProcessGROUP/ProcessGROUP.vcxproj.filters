@@ -48,5 +48,8 @@
     <ClCompile Include="Thread1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Thread2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
