@@ -11,7 +11,7 @@
 * [Process7](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Process7.cpp)
 * [First](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/First.cpp)
 * [Second](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Second.cpp)
-<h4> Threads<h4/>:mortar_board:
+<h4> Threads:mortar_board:<h4/>
 * [Thread1](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread1.cpp)
 * [Thread2](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread2.cpp)
 * [Thread3](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread3.cpp)
