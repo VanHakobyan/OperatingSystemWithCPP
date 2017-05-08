@@ -11,10 +11,12 @@
 * [Process7](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Process7.cpp)
 * [First](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/First.cpp)
 * [Second](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Second.cpp)
-</br>
-<h4> Threads<h4/>
-
+<h4> Threads<h4/>:mortar_board:
 * [Thread1](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread1.cpp)
+* [Thread2](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread2.cpp)
+* [Thread3](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread3.cpp)
+* [Thread4](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread4.cpp)
+* [Thread5](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessOS/ProcessGROUP/Thread5.cpp)
 
 ### About it :bell:
 
