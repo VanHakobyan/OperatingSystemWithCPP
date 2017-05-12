@@ -24,7 +24,9 @@
 * [Reversing](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/03_03_17/Reversing/Source.cpp) <br>
 * [Folder For Look ](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/ForLook) <br>
 * [Read15number](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/Read15number/Read15number/Source.cpp) <br>
-* [Here are all the codes process](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/ProcessOS) :loudspeaker: <br>
+* [Process (Here are all the codes Process)](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/ProcessOS) :loudspeaker: <br>
+* [Event,Mutex and Semaphore:runner:](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/EventMutexSemaphore/EventMutexSemaphore)<br>
+* [First Process Call Second Process](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/FirstProcessCallSecondProcess)<br>
 
 
 #### About it
