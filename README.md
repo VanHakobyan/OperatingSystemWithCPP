@@ -27,8 +27,9 @@
 * [Process (Here are all the codes Process)](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/ProcessOS) :loudspeaker: <br>
 * [Event,Mutex and Semaphore:runner:](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/EventMutexSemaphore/EventMutexSemaphore)<br>
 * [First Process Call Second Process](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/FirstProcessCallSecondProcess)<br>
-* [Event,Process and Thread](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/ProcessThreadSync/EventProcess-Thread)<br>
+* [Event,Process ](https://github.com/VanHakobyan/OperatingSystemWithCPP/tree/master/ProcessThreadSync/EventProcess-Thread)<br>
 * [Printing Event 121212](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessThreadSync/Event121212.cpp)<br>
+* [Event Thread](https://github.com/VanHakobyan/OperatingSystemWithCPP/blob/master/ProcessThreadSync/EventThreads.cpp)<br>
 
 #### About it
 
