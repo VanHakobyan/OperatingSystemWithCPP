@@ -37,3 +37,7 @@
 
 * Visual Studio Community 2017
 * C++ 17 .NET Framework 4.6
+
+#### About me
+* [Linkedin](https://www.linkedin.com/in/vanikhakobyan/)
+* [FaceBook](https://web.facebook.com/VANHAKOBYAN)
