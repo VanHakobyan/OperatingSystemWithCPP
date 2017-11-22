@@ -7,7 +7,7 @@ void main()
 {
 	STARTUPINFO x;
 	PROCESS_INFORMATION y;
-	char cmd[300] = "C:\\Users\\Student\\Documents\\Visual Studio 2015\\second\\debug\\second.exe ";
+	char cmd[300] = "C:\\Users\\Student\\Documents\\Visual Studio 2015\\second\\debug\\second.exe ";// bad practise
 	ZeroMemory(&x, sizeof(x));
 	x.cb = sizeof(x);
 	int pid = GetCurrentProcessId();
